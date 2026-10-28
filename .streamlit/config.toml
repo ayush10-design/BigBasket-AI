@@ -1,0 +1,17 @@
+[theme]
+base = "dark"
+primaryColor = "#5BC489"
+backgroundColor = "#0F1626"
+secondaryBackgroundColor = "#172238"
+textColor = "#E6ECF5"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# 50 MB is plenty for the dataset upload on first run
+maxUploadSize = 50
